@@ -13,4 +13,3 @@
 ## Linguagens disponíveis
 
 - Português (BR)
-- English - coming soon
