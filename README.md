@@ -8,7 +8,7 @@
 
 ## Guias
 
-- [Guia de Markdown](https://www.notion.so/mylimbo/Markdown-e-padroniza-o-nas-anota-es-71fec8dbe0b24238acb9063ad17b234b)
+- [Guia de Markdown](https://mylimbo.notion.site/Programa-o-59d96b345a1e4b52a8187f30a930a322)
 
 ## Linguagens disponíveis
 
