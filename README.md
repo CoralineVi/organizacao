@@ -1,6 +1,6 @@
 # Estudos e organização
 
- Ferramentas de organização, módelos e metodos para programação e estudos.
+ Ferramentas de organização, módelos e metodos para estudos na programação.
 
 ## Para cursos
 
